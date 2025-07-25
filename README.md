@@ -37,4 +37,7 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zere1sse&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zere1sse&theme=tokyonight"/>
+</p>
